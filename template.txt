@@ -1,0 +1,1 @@
+The standard font for the report is times new room 12.
