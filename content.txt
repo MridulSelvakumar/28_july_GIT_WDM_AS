@@ -2,3 +2,9 @@ Content inside the text file
 
 >Abstract
 >Hi mridul
+
+1.objectives----saba_b1
+2.problemstatments---saba_b1
+
+2.1.main theory
+2.2.summary
